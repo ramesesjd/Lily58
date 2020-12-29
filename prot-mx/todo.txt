@@ -1,4 +1,4 @@
 -add outline for rotary encoder to pcb
 -add logo with modified text
 -verify pcb design
--???
+
