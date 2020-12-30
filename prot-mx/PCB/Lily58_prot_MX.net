@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mango/Documents/GitHub/Lily58/prot-mx/PCB/Lily58_prot_MX.sch)
-    (date "Mon 28 Dec 2020 05:48:16 PM PST")
+    (date "Tue 29 Dec 2020 08:46:40 PM PST")
     (tool "Eeschema 5.1.9")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
