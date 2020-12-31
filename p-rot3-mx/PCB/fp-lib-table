@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Lily58_prot_MX-footprint)(type KiCad)(uri ${KIPRJMOD}/Lily58_prot_MX-footprint.pretty)(options "")(descr ""))
+  (lib (name Lily58-footprint)(type KiCad)(uri /home/mango/Documents/GitHub/Lily58/pcb/Lily58-footprint.pretty)(options "")(descr "")(disabled))
+  (lib (name SofleKeyboard-footprint)(type KiCad)(uri /home/mango/Documents/GitHub/SofleKeyboard/SofleKeyboard-footprint.pretty)(options "")(descr "")(disabled))
+)
