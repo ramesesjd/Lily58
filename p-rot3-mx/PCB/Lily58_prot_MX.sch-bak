@@ -63,7 +63,7 @@ U 1 1 5B7226E7
 P 6900 2400
 F 0 "D1" V 6946 2321 50  0000 R CNN
 F 1 "D" V 6855 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 6900 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 6900 2400 50  0001 C CNN
 F 3 "" H 6900 2400 50  0001 C CNN
 	1    6900 2400
 	0    -1   -1   0   
@@ -85,7 +85,7 @@ U 1 1 5B722847
 P 7700 2400
 F 0 "D2" V 7746 2321 50  0000 R CNN
 F 1 "D" V 7655 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 7700 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 7700 2400 50  0001 C CNN
 F 3 "" H 7700 2400 50  0001 C CNN
 	1    7700 2400
 	0    -1   -1   0   
@@ -107,7 +107,7 @@ U 1 1 5B722950
 P 8500 2400
 F 0 "D3" V 8546 2321 50  0000 R CNN
 F 1 "D" V 8455 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 8500 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 8500 2400 50  0001 C CNN
 F 3 "" H 8500 2400 50  0001 C CNN
 	1    8500 2400
 	0    -1   -1   0   
@@ -129,7 +129,7 @@ U 1 1 5B722A8F
 P 9300 2400
 F 0 "D4" V 9346 2321 50  0000 R CNN
 F 1 "D" V 9255 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 9300 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 9300 2400 50  0001 C CNN
 F 3 "" H 9300 2400 50  0001 C CNN
 	1    9300 2400
 	0    -1   -1   0   
@@ -151,7 +151,7 @@ U 1 1 5B722BAD
 P 10100 2400
 F 0 "D5" V 10146 2321 50  0000 R CNN
 F 1 "D" V 10055 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10100 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10100 2400 50  0001 C CNN
 F 3 "" H 10100 2400 50  0001 C CNN
 	1    10100 2400
 	0    -1   -1   0   
@@ -173,7 +173,7 @@ U 1 1 5B722FE1
 P 10900 2400
 F 0 "D6" V 10946 2321 50  0000 R CNN
 F 1 "D" V 10855 2321 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10900 2400 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10900 2400 50  0001 C CNN
 F 3 "" H 10900 2400 50  0001 C CNN
 	1    10900 2400
 	0    -1   -1   0   
@@ -250,7 +250,7 @@ U 1 1 5B723D94
 P 6900 3050
 F 0 "D7" V 6946 2971 50  0000 R CNN
 F 1 "D" V 6855 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 6900 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 6900 3050 50  0001 C CNN
 F 3 "" H 6900 3050 50  0001 C CNN
 	1    6900 3050
 	0    -1   -1   0   
@@ -261,7 +261,7 @@ U 1 1 5B723E5F
 P 7700 3050
 F 0 "D8" V 7746 2971 50  0000 R CNN
 F 1 "D" V 7655 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 7700 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 7700 3050 50  0001 C CNN
 F 3 "" H 7700 3050 50  0001 C CNN
 	1    7700 3050
 	0    -1   -1   0   
@@ -272,7 +272,7 @@ U 1 1 5B723FA1
 P 8500 3050
 F 0 "D9" V 8546 2971 50  0000 R CNN
 F 1 "D" V 8455 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 8500 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 8500 3050 50  0001 C CNN
 F 3 "" H 8500 3050 50  0001 C CNN
 	1    8500 3050
 	0    -1   -1   0   
@@ -283,7 +283,7 @@ U 1 1 5B7240EA
 P 9300 3050
 F 0 "D10" V 9346 2971 50  0000 R CNN
 F 1 "D" V 9255 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 9300 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 9300 3050 50  0001 C CNN
 F 3 "" H 9300 3050 50  0001 C CNN
 	1    9300 3050
 	0    -1   -1   0   
@@ -294,7 +294,7 @@ U 1 1 5B72424D
 P 10100 3050
 F 0 "D11" V 10146 2971 50  0000 R CNN
 F 1 "D" V 10055 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10100 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10100 3050 50  0001 C CNN
 F 3 "" H 10100 3050 50  0001 C CNN
 	1    10100 3050
 	0    -1   -1   0   
@@ -305,7 +305,7 @@ U 1 1 5B7243C0
 P 10900 3050
 F 0 "D12" V 10946 2971 50  0000 R CNN
 F 1 "D" V 10855 2971 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10900 3050 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10900 3050 50  0001 C CNN
 F 3 "" H 10900 3050 50  0001 C CNN
 	1    10900 3050
 	0    -1   -1   0   
@@ -382,7 +382,7 @@ U 1 1 5B7254EE
 P 6900 3700
 F 0 "D13" V 6946 3621 50  0000 R CNN
 F 1 "D" V 6855 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 6900 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 6900 3700 50  0001 C CNN
 F 3 "" H 6900 3700 50  0001 C CNN
 	1    6900 3700
 	0    -1   -1   0   
@@ -393,7 +393,7 @@ U 1 1 5B7255FF
 P 7700 3700
 F 0 "D14" V 7746 3621 50  0000 R CNN
 F 1 "D" V 7655 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 7700 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 7700 3700 50  0001 C CNN
 F 3 "" H 7700 3700 50  0001 C CNN
 	1    7700 3700
 	0    -1   -1   0   
@@ -404,7 +404,7 @@ U 1 1 5B72571C
 P 8500 3700
 F 0 "D15" V 8546 3621 50  0000 R CNN
 F 1 "D" V 8455 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 8500 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 8500 3700 50  0001 C CNN
 F 3 "" H 8500 3700 50  0001 C CNN
 	1    8500 3700
 	0    -1   -1   0   
@@ -415,7 +415,7 @@ U 1 1 5B725841
 P 9300 3700
 F 0 "D16" V 9346 3621 50  0000 R CNN
 F 1 "D" V 9255 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 9300 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 9300 3700 50  0001 C CNN
 F 3 "" H 9300 3700 50  0001 C CNN
 	1    9300 3700
 	0    -1   -1   0   
@@ -426,7 +426,7 @@ U 1 1 5B72596D
 P 10100 3700
 F 0 "D17" V 10146 3621 50  0000 R CNN
 F 1 "D" V 10055 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10100 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10100 3700 50  0001 C CNN
 F 3 "" H 10100 3700 50  0001 C CNN
 	1    10100 3700
 	0    -1   -1   0   
@@ -437,7 +437,7 @@ U 1 1 5B725AA2
 P 10900 3700
 F 0 "D18" V 10946 3621 50  0000 R CNN
 F 1 "D" V 10855 3621 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10900 3700 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10900 3700 50  0001 C CNN
 F 3 "" H 10900 3700 50  0001 C CNN
 	1    10900 3700
 	0    -1   -1   0   
@@ -514,7 +514,7 @@ U 1 1 5B72767A
 P 6900 4350
 F 0 "D19" V 6946 4271 50  0000 R CNN
 F 1 "D" V 6855 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 6900 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 6900 4350 50  0001 C CNN
 F 3 "" H 6900 4350 50  0001 C CNN
 	1    6900 4350
 	0    -1   -1   0   
@@ -525,7 +525,7 @@ U 1 1 5B7277CE
 P 7700 4350
 F 0 "D20" V 7746 4271 50  0000 R CNN
 F 1 "D" V 7655 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 7700 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 7700 4350 50  0001 C CNN
 F 3 "" H 7700 4350 50  0001 C CNN
 	1    7700 4350
 	0    -1   -1   0   
@@ -536,7 +536,7 @@ U 1 1 5B727929
 P 8500 4350
 F 0 "D21" V 8546 4271 50  0000 R CNN
 F 1 "D" V 8455 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 8500 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 8500 4350 50  0001 C CNN
 F 3 "" H 8500 4350 50  0001 C CNN
 	1    8500 4350
 	0    -1   -1   0   
@@ -547,7 +547,7 @@ U 1 1 5B727A89
 P 9300 4350
 F 0 "D22" V 9346 4271 50  0000 R CNN
 F 1 "D" V 9255 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 9300 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 9300 4350 50  0001 C CNN
 F 3 "" H 9300 4350 50  0001 C CNN
 	1    9300 4350
 	0    -1   -1   0   
@@ -558,7 +558,7 @@ U 1 1 5B727BFE
 P 10100 4350
 F 0 "D23" V 10146 4271 50  0000 R CNN
 F 1 "D" V 10055 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10100 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10100 4350 50  0001 C CNN
 F 3 "" H 10100 4350 50  0001 C CNN
 	1    10100 4350
 	0    -1   -1   0   
@@ -569,7 +569,7 @@ U 1 1 5B727D79
 P 10900 4350
 F 0 "D24" V 10946 4271 50  0000 R CNN
 F 1 "D" V 10855 4271 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10900 4350 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10900 4350 50  0001 C CNN
 F 3 "" H 10900 4350 50  0001 C CNN
 	1    10900 4350
 	0    -1   -1   0   
@@ -613,7 +613,7 @@ U 1 1 5B734844
 P 6900 5200
 F 0 "D25" V 6946 5121 50  0000 R CNN
 F 1 "D" V 6855 5121 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 6900 5200 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 6900 5200 50  0001 C CNN
 F 3 "" H 6900 5200 50  0001 C CNN
 	1    6900 5200
 	0    -1   -1   0   
@@ -624,7 +624,7 @@ U 1 1 5B7349D1
 P 7700 5200
 F 0 "D26" V 7746 5121 50  0000 R CNN
 F 1 "D" V 7655 5121 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 7700 5200 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 7700 5200 50  0001 C CNN
 F 3 "" H 7700 5200 50  0001 C CNN
 	1    7700 5200
 	0    -1   -1   0   
@@ -635,7 +635,7 @@ U 1 1 5B734B62
 P 8500 5200
 F 0 "D27" V 8546 5121 50  0000 R CNN
 F 1 "D" V 8455 5121 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 8500 5200 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 8500 5200 50  0001 C CNN
 F 3 "" H 8500 5200 50  0001 C CNN
 	1    8500 5200
 	0    -1   -1   0   
@@ -646,7 +646,7 @@ U 1 1 5B734CF9
 P 9300 5200
 F 0 "D28" V 9346 5121 50  0000 R CNN
 F 1 "D" V 9255 5121 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 9300 5200 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 9300 5200 50  0001 C CNN
 F 3 "" H 9300 5200 50  0001 C CNN
 	1    9300 5200
 	0    -1   -1   0   
@@ -657,7 +657,7 @@ U 1 1 5B734F9E
 P 10100 5200
 F 0 "D29" V 10146 5121 50  0000 R CNN
 F 1 "D" V 10055 5121 50  0000 R CNN
-F 2 "Lily58_prot_MX-footprint:Diode_TH_SOD123" H 10100 5200 50  0001 C CNN
+F 2 "Lily58_prot_MX-footprint:Diode_SOD123" H 10100 5200 50  0001 C CNN
 F 3 "" H 10100 5200 50  0001 C CNN
 	1    10100 5200
 	0    -1   -1   0   
@@ -672,7 +672,7 @@ Text GLabel 5350 4500 0    50   Input ~ 0
 row3
 Text GLabel 5350 5350 0    50   Input ~ 0
 row4
-Text GLabel 10300 2250 1    50   Input ~ 0
+Text GLabel 10300 1800 1    50   Input ~ 0
 col0
 Text GLabel 9500 2250 1    50   Input ~ 0
 col1
@@ -1030,7 +1030,7 @@ Connection ~ 10100 4500
 Wire Wire Line
 	10100 4500 10900 4500
 Wire Wire Line
-	9500 4200 9500 5050
+	9500 4200 9500 4600
 Connection ~ 9300 5350
 Wire Wire Line
 	9300 5350 10100 5350
@@ -1391,22 +1391,22 @@ Connection ~ 3550 4550
 $Comp
 L Lily58_prot_MX-rescue:Device_Rotary_Encoder_Switch SW30
 U 1 1 5FE9B9BB
-P 3900 6250
-F 0 "SW30" H 3900 6617 50  0000 C CNN
-F 1 "ROT_ENC_SW" H 3900 6526 50  0000 C CNN
-F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified_orig" H 3750 6410 50  0001 C CNN
-F 3 "" H 3900 6510 50  0001 C CNN
-	1    3900 6250
+P 4500 6100
+F 0 "SW30" H 4500 6467 50  0000 C CNN
+F 1 "ROT_ENC_SW" H 4500 6376 50  0000 C CNN
+F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP" H 4350 6260 50  0001 C CNN
+F 3 "" H 4500 6360 50  0001 C CNN
+	1    4500 6100
 	1    0    0    -1  
 $EndComp
-Text GLabel 4200 6150 2    50   Input ~ 0
-R_SW1
-Text GLabel 4200 6350 2    50   Input ~ 0
-R_SW2
+Text GLabel 4800 6000 2    50   Input ~ 0
+R1_SW1
+Text GLabel 4800 6200 2    50   Input ~ 0
+R1_SW2
 Text GLabel 6450 4600 2    50   Input ~ 0
-R_SW2
+R1_SW2
 Text GLabel 6750 4750 0    50   Input ~ 0
-R_SW1
+R1_SW1
 Wire Wire Line
 	6450 4600 6300 4600
 Connection ~ 6300 4600
@@ -1420,17 +1420,17 @@ Connection ~ 6900 5050
 $Comp
 L Lily58_prot_MX-rescue:GND-power #PWR0103
 U 1 1 5FED2DF6
-P 3600 6250
-F 0 "#PWR0103" H 3600 6000 50  0001 C CNN
-F 1 "GND-power" V 3605 6123 50  0000 R CNN
-F 2 "" H 3600 6250 50  0001 C CNN
-F 3 "" H 3600 6250 50  0001 C CNN
-	1    3600 6250
+P 4200 6100
+F 0 "#PWR0103" H 4200 5850 50  0001 C CNN
+F 1 "GND-power" V 4205 5973 50  0000 R CNN
+F 2 "" H 4200 6100 50  0001 C CNN
+F 3 "" H 4200 6100 50  0001 C CNN
+	1    4200 6100
 	0    1    1    0   
 $EndComp
-Text GLabel 3600 6150 0    50   Input ~ 0
+Text GLabel 4200 6000 0    50   Input ~ 0
 R_A
-Text GLabel 3600 6350 0    50   Input ~ 0
+Text GLabel 4200 6200 0    50   Input ~ 0
 R_B
 Text GLabel 3850 2500 2    50   Input ~ 0
 R_A
@@ -1447,4 +1447,95 @@ F 3 "" H 2950 5700 50  0001 C CNN
 	1    2950 5700
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Lily58_prot_MX-rescue:Device_Rotary_Encoder_Switch SW31
+U 1 1 5FED7706
+P 4500 6800
+F 0 "SW31" H 4500 7167 50  0000 C CNN
+F 1 "ROT_ENC_SW" H 4500 7076 50  0000 C CNN
+F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP" H 4350 6960 50  0001 C CNN
+F 3 "" H 4500 7060 50  0001 C CNN
+	1    4500 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58_prot_MX-rescue:Device_Rotary_Encoder_Switch SW32
+U 1 1 5FED90A3
+P 4500 7400
+F 0 "SW32" H 4500 7767 50  0000 C CNN
+F 1 "ROT_ENC_SW" H 4500 7676 50  0000 C CNN
+F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP" H 4350 7560 50  0001 C CNN
+F 3 "" H 4500 7660 50  0001 C CNN
+	1    4500 7400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9500 4600 9700 4600
+Connection ~ 9500 4600
+Wire Wire Line
+	9500 4600 9500 5050
+Wire Wire Line
+	10100 5050 10100 4750
+Wire Wire Line
+	10100 4750 9950 4750
+Connection ~ 10100 5050
+Text GLabel 4200 6700 0    50   Input ~ 0
+R_A
+Text GLabel 4200 6900 0    50   Input ~ 0
+R_B
+Text GLabel 4200 7300 0    50   Input ~ 0
+R_A
+Text GLabel 4200 7500 0    50   Input ~ 0
+R_B
+Text GLabel 4800 6700 2    50   Input ~ 0
+R2_SW1
+Text GLabel 4800 6900 2    50   Input ~ 0
+R2_SW2
+Text GLabel 4800 7300 2    50   Input ~ 0
+R3_SW1
+Text GLabel 4800 7500 2    50   Input ~ 0
+R3_SW2
+$Comp
+L Lily58_prot_MX-rescue:GND-power #PWR0104
+U 1 1 5FF2E3F8
+P 4200 6800
+F 0 "#PWR0104" H 4200 6550 50  0001 C CNN
+F 1 "GND-power" V 4205 6673 50  0000 R CNN
+F 2 "" H 4200 6800 50  0001 C CNN
+F 3 "" H 4200 6800 50  0001 C CNN
+	1    4200 6800
+	0    1    1    0   
+$EndComp
+$Comp
+L Lily58_prot_MX-rescue:GND-power #PWR0105
+U 1 1 5FF32E91
+P 4200 7400
+F 0 "#PWR0105" H 4200 7150 50  0001 C CNN
+F 1 "GND-power" V 4205 7273 50  0000 R CNN
+F 2 "" H 4200 7400 50  0001 C CNN
+F 3 "" H 4200 7400 50  0001 C CNN
+	1    4200 7400
+	0    1    1    0   
+$EndComp
+Text GLabel 9700 4600 2    50   Input ~ 0
+R2_SW1
+Text GLabel 9950 4750 0    50   Input ~ 0
+R2_SW2
+Connection ~ 10300 2250
+Wire Wire Line
+	10300 2250 10300 1850
+Wire Wire Line
+	10300 1850 10450 1850
+Connection ~ 10300 1850
+Wire Wire Line
+	10300 1850 10300 1800
+Wire Wire Line
+	10900 2250 10900 2000
+Wire Wire Line
+	10900 2000 10750 2000
+Connection ~ 10900 2250
+Text GLabel 10450 1850 2    50   Input ~ 0
+R3_SW1
+Text GLabel 10750 2000 0    50   Input ~ 0
+R3_SW2
 $EndSCHEMATC
