@@ -1518,9 +1518,9 @@ F 3 "" H 4200 7400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 9700 4600 2    50   Input ~ 0
-R2_SW1
-Text GLabel 9950 4750 0    50   Input ~ 0
 R2_SW2
+Text GLabel 9950 4750 0    50   Input ~ 0
+R2_SW1
 Connection ~ 10300 2250
 Wire Wire Line
 	10300 2250 10300 1850
@@ -1535,7 +1535,7 @@ Wire Wire Line
 	10900 2000 10750 2000
 Connection ~ 10900 2250
 Text GLabel 10450 1850 2    50   Input ~ 0
-R3_SW1
-Text GLabel 10750 2000 0    50   Input ~ 0
 R3_SW2
+Text GLabel 10750 2000 0    50   Input ~ 0
+R3_SW1
 $EndSCHEMATC

@@ -1458,17 +1458,6 @@ F 3 "" H 4500 7060 50  0001 C CNN
 	1    4500 6800
 	1    0    0    -1  
 $EndComp
-$Comp
-L Lily58_prot_MX-rescue:Device_Rotary_Encoder_Switch SW32
-U 1 1 5FED90A3
-P 4500 7400
-F 0 "SW32" H 4500 7767 50  0000 C CNN
-F 1 "ROT_ENC_SW" H 4500 7676 50  0000 C CNN
-F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP" H 4350 7560 50  0001 C CNN
-F 3 "" H 4500 7660 50  0001 C CNN
-	1    4500 7400
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	9500 4600 9700 4600
 Connection ~ 9500 4600
@@ -1483,9 +1472,9 @@ Text GLabel 4200 6700 0    50   Input ~ 0
 R_A
 Text GLabel 4200 6900 0    50   Input ~ 0
 R_B
-Text GLabel 4200 7300 0    50   Input ~ 0
-R_A
 Text GLabel 4200 7500 0    50   Input ~ 0
+R_A
+Text GLabel 4200 7300 0    50   Input ~ 0
 R_B
 Text GLabel 4800 6700 2    50   Input ~ 0
 R2_SW1
@@ -1538,4 +1527,15 @@ Text GLabel 10450 1850 2    50   Input ~ 0
 R3_SW2
 Text GLabel 10750 2000 0    50   Input ~ 0
 R3_SW1
+$Comp
+L Lily58_prot_MX-rescue:Device_Rotary_Encoder_Switch SW32
+U 1 1 5FED90A3
+P 4500 7400
+F 0 "SW32" H 4500 7767 50  0000 C CNN
+F 1 "ROT_ENC_SW" H 4500 7676 50  0000 C CNN
+F 2 "Lily58_prot_MX-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP" H 4350 7560 50  0001 C CNN
+F 3 "" H 4500 7660 50  0001 C CNN
+	1    4500 7400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
