@@ -1,4 +1,5 @@
--add outline for rotary encoder to pcb
+-delete original and modified routing
+-redo routing
 -add logo with modified text
 -verify pcb design
 

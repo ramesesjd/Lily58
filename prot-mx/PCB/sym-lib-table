@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name Lily58_prot_MX-rescue)(type Legacy)(uri ${KIPRJMOD}/Lily58_prot_MX-rescue.lib)(options "")(descr ""))
-  (lib (name SofleKeyboard-cache)(type Legacy)(uri /home/mango/Documents/GitHub/SofleKeyboard/PCB/SofleKeyboard-cache.lib)(options "")(descr "")(disabled))
-  (lib (name SofleKeyboard-rescue)(type Legacy)(uri /home/mango/Documents/GitHub/SofleKeyboard/PCB/SofleKeyboard-rescue.lib)(options "")(descr "")(disabled))
-)

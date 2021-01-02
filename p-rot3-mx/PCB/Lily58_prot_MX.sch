@@ -1472,9 +1472,9 @@ Text GLabel 4200 6700 0    50   Input ~ 0
 R_A
 Text GLabel 4200 6900 0    50   Input ~ 0
 R_B
-Text GLabel 4200 7500 0    50   Input ~ 0
-R_A
 Text GLabel 4200 7300 0    50   Input ~ 0
+R_A
+Text GLabel 4200 7500 0    50   Input ~ 0
 R_B
 Text GLabel 4800 6700 2    50   Input ~ 0
 R2_SW1
