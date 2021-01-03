@@ -1,5 +1,4 @@
--delete original and modified routing
--redo routing
+-figure out LEDs - check Lily58-Glow and Sofle-RGB
 -add logo with modified text
 -verify pcb design
 
