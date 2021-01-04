@@ -1,4 +1,4 @@
-59556439007369
+61166169935369
 Lily58_prot_MX-footprint
 1pin_conn
 Resitance 3 pas
@@ -204,6 +204,13 @@ rotary encoder
 6
 Lily58_prot_MX-footprint
 SK6812MINI_rev
+
+
+0
+8
+4
+Lily58_prot_MX-footprint
+SK6812MINI_rev_w_co
 
 
 0
