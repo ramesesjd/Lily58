@@ -1,4 +1,4 @@
-61166169935369
+62779582797369
 Lily58_prot_MX-footprint
 1pin_conn
 Resitance 3 pas
@@ -182,13 +182,6 @@ R
 2
 2
 Lily58_prot_MX-footprint
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Lily58_prot_MX-footprint
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified-no_MP
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -259,7 +252,21 @@ jumper_smd_2dub
 2
 2
 Lily58_prot_MX-footprint
+lily58Pro.3RE.MX-logo
+
+
+0
+0
+0
+Lily58_prot_MX-footprint
 lily58_logo
+
+
+0
+0
+0
+Lily58_prot_MX-footprint
+lily58_logo_2
 
 
 0
